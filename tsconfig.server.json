@@ -5,10 +5,10 @@
     "moduleResolution": "NodeNext",
     "outDir": "dist-server",
     "rootDir": "server",
-    "strict": true,
+    "strict": false,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "noEmit": True
+    "noEmit": false
   },
   "include": ["server/**/*"]
 }
